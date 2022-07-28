@@ -20,7 +20,7 @@
 - FLEX
 - LINTERS (stylint and eslint)
 ## Live Demo
-- [Coming soon]
+:point_right: [g-summit](https://altontonn.github.io/Global-Summit/)
 
 ## 🧰 Tools
 
