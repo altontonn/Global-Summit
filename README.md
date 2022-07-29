@@ -3,6 +3,7 @@
 > Javascript Capstone Project
 
 **Additional description about the project and its features.**
+- This project contains the HTML, CSS, BOOTSTRAP, FELX, GRID and JavaScript Capstone Project. This is a project that contains description of the web development global summit that is to be held in Nairobi, Kenya at USIU University. The aim of the project is to focus on web development using progamming language like Rails, React and Ruby on Rails. 
 
 ## Linter for html&css (Stylelint)
 -https://github.com/microverseinc/linters-config/tree/master/html-css
@@ -12,17 +13,23 @@
 
 ## ⚒️ Built With
 
-- 
-- 
-
+- BOOTSTRAP
+- CSS
+- JAVASCRIPT
+- GRID
+- FLEX
+- LINTERS (stylint and eslint)
 ## Live Demo
-- [Coming soon]
+- [g-summit](https://altontonn.github.io/Global-Summit/)
+- [presentation](https://drive.google.com/file/d/1XeBZOdulTpzbyr3YAuACGjbL_1NjGHw1/view?usp=sharing)
 
 ## 🧰 Tools
 
 The following tools help make it easier to run this code.
 
 - [Visual Studio Code](https://code.visualstudio.com/): A source code editor
+- Github
+- Gitbash
 
 ## 🔥 Getting Started
 
@@ -41,6 +48,12 @@ https://github.com/altontonn/Capston-Project.git
 - GitHub: [Newton Alumasa](https://github.com/altontonn)
 - Twitter: [Newton Alumasa](https://twitter.com/AlumasaNewton)
 - LinkedIn: [Newton Alumasa](https://linkedin.com/in/NewtonAlumasa)
+
+## Acknowledgements
+- Microverse
+- Cindy Shin
+- Creative Commons
+- Creative Commons Korea
 
 ## 👊🏾 Show your support
 
