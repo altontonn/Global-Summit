@@ -21,7 +21,6 @@
 - LINTERS (stylint and eslint)
 ## Live Demo
 - [g-summit](https://altontonn.github.io/Global-Summit/)
-- [presentation](https://drive.google.com/file/d/1VnzcVwb_LnRWXmuW4X_0XB6-Ph6EJULz/view?usp=sharing)
 
 ## 🧰 Tools
 
