@@ -51,7 +51,7 @@ https://github.com/altontonn/Capston-Project.git
 
 ## ⭐️ CREDIT
 
-- I would like to give credit to @Cindy Shin the author of the original design for amazing design
+- I would like to give credit to [@Cindy Shin](https://www.behance.net/adagio07) the author of the original design for the amazing design
 
 ## Acknowledgements
 
