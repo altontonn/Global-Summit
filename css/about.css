@@ -8,12 +8,18 @@
   display: none;
 }
 
+#navbarContent ul li {
+  display: flex;
+}
+
 .text-nav {
   color: #d3d3d3;
 }
 
 .text-first {
   color: #ec5242;
+  border: 2px solid #ec5242;
+  padding: 5px;
 }
 
 .img-logo {
@@ -36,7 +42,7 @@
 
 .active {
   transform: translateX(0);
-  height: 50vh;
+  height: 53vh;
 }
 
 .content {
@@ -183,7 +189,6 @@ section .sponsors .sponsor-logo {
 
   #navbarContent ul li {
     width: auto;
-    padding-right: 2rem;
   }
 
   .text-first {
