@@ -21,7 +21,7 @@
 - LINTERS (stylint and eslint)
 ## Live Demo
 - [g-summit](https://altontonn.github.io/Global-Summit/)
-- [presentation](https://drive.google.com/file/d/1XeBZOdulTpzbyr3YAuACGjbL_1NjGHw1/view?usp=sharing)
+- [presentation](https://drive.google.com/file/d/1VnzcVwb_LnRWXmuW4X_0XB6-Ph6EJULz/view?usp=sharing)
 
 ## 🧰 Tools
 
@@ -49,10 +49,13 @@ https://github.com/altontonn/Capston-Project.git
 - Twitter: [Newton Alumasa](https://twitter.com/AlumasaNewton)
 - LinkedIn: [Newton Alumasa](https://linkedin.com/in/NewtonAlumasa)
 
+## ⭐️ CREDIT
+
+- I would like to give credit to [@Cindy Shin](https://www.behance.net/adagio07) the author of the original design for the amazing design
+
 ## Acknowledgements
+
 - Microverse
-- Cindy Shin
-- Creative Commons
 - Creative Commons Korea
 
 ## 👊🏾 Show your support
