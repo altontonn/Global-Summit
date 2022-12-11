@@ -5,11 +5,11 @@
 **Additional description about the project and its features.**
 - This project contains the HTML, CSS, BOOTSTRAP, FELX, GRID and JavaScript Capstone Project. This is a project that contains description of the web development global summit that is to be held in Nairobi, Kenya at USIU University. The aim of the project is to focus on web development using progamming language like Rails, React and Ruby on Rails. 
 
-## Linter for html&css (Stylelint)
--https://github.com/microverseinc/linters-config/tree/master/html-css
+## Linter for CSS
+- [stylelint](https://github.com/microverseinc/linters-config/tree/master/html-css)
 
-## linter for html&css + javascript (ESlint)
--https://github.com/microverseinc/linters-config/tree/master/html-css-js
+## Linter for JS
+- [eslint](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
 
 ## ⚒️ Built With
 
